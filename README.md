@@ -1,12 +1,22 @@
-# Salut, je suis Khalil 👋
+<div align="center">
 
-**Développeur full-stack à Dakar.** Je construis des applications web complètes, de l’API sécurisée à l’interface, et je sais aussi les déployer et administrer le réseau et les serveurs qui les font tourner.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ibrahima%20Khalil%20Fall&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Ibrahima Khalil Fall" />
+
+<a href="https://github.com/IkhalilFall">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CFF&center=true&vCenter=true&width=640&height=45&lines=D%C3%A9veloppeur+Full-Stack+%C3%A0+Dakar;Angular+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+Node.js;API+REST+s%C3%A9curis%C3%A9es+et+interfaces+modernes;R%C3%A9seaux+%C2%B7+Syst%C3%A8mes+%C2%B7+Docker+%C2%B7+Kubernetes" alt="Texte animé" />
+</a>
+
+</div>
+
+## 👋 À propos
+
+Je construis des applications web complètes, de l’API sécurisée à l’interface, et je sais aussi les déployer et administrer le réseau et les serveurs qui les font tourner.
 
 Titulaire d’une **Licence Sciences et Techniques de l’Informatique** (IPD, Dakar). Mon projet de fin d’études, **E-Mémoire**, a été noté **17/20**.
 
 ---
 
-## Ce que je construis
+## 🚀 Ce que je construis
 
 | Projet | Ce que ça fait | Stack |
 |---|---|---|
@@ -18,7 +28,7 @@ Titulaire d’une **Licence Sciences et Techniques de l’Informatique** (IPD, D
 
 ---
 
-## Réseaux, systèmes et DevOps
+## 🌐 Réseaux, systèmes et DevOps
 
 - **Windows Server 2025** : DNS avec réplication, DHCP en failover, analyse du trafic avec Wireshark
 - **Cisco Packet Tracer** : VLAN, VTP, DHCP, NAT, routage statique
@@ -27,15 +37,32 @@ Titulaire d’une **Licence Sciences et Techniques de l’Informatique** (IPD, D
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 
-**Back-end** : Java · Spring Boot · Node.js · Express · PHP · Laravel · Symfony
-**Front-end** : Angular · Next.js · React · Tailwind CSS
-**Données** : PostgreSQL · MySQL · Prisma
-**Infra et outils** : Docker · Kubernetes · Linux · Windows Server · Git · GitHub Actions
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,laravel,symfony,angular,nextjs,react,tailwind,postgres,mysql,prisma,docker,kubernetes,linux,git,githubactions&perline=10" alt="Technologies" />
+
+</div>
 
 ---
 
-## Me contacter
+## 📊 Activité GitHub
 
-📫 [khalilfall52@gmail.com](mailto:khalilfall52@gmail.com)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhalilFall&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+
+</div>
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/khalilfall52%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalilfall52@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="" />
+
+</div>
